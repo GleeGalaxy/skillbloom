@@ -8,6 +8,23 @@
     <fragment
         android:id="@+id/skillListFragment"
         android:name="silversource.apps.skillbloom.skills.SkillListFragment"
-        android:label="fragment_skill_list"
-        tools:layout="@layout/fragment_skill_list" />
+        android:label="Home"
+        tools:layout="@layout/fragment_skill_list">
+        <action
+            android:id="@+id/go_to_add_skill_fragment"
+            app:destination="@id/addSkillFragment" />
+        <action
+            android:id="@+id/go_to_add_subskill_fragment"
+            app:destination="@id/addSubskillFragment" />
+    </fragment>
+    <dialog
+        android:id="@+id/addSkillFragment"
+        android:name="silversource.apps.skillbloom.skills.add.AddSkillFragment"
+        android:label="fragment_add_skill"
+        tools:layout="@layout/fragment_add_skill" />
+    <dialog
+        android:id="@+id/addSubskillFragment"
+        android:name="silversource.apps.skillbloom.skills.add.AddSubskillFragment"
+        android:label="fragment_add_subskill"
+        tools:layout="@layout/fragment_add_subskill" />
 </navigation>

@@ -3,13 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/1905173/Desktop/et/skillbloom/app/src/main/res/layout/activity_main.xml" value="0.15" />
+        <entry key="..\:/Users/1905173/Desktop/et/skillbloom/app/src/main/res/layout/fragment_add_skill.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/1905173/Desktop/et/skillbloom/app/src/main/res/layout/fragment_add_subskill.xml" value="0.18" />
+        <entry key="..\:/Users/1905173/Desktop/et/skillbloom/app/src/main/res/layout/fragment_skill_list.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/1905173/Desktop/et/skillbloom/app/src/main/res/layout/list_item_skill.xml" value="0.308562197092084" />
+        <entry key="..\:/Users/1905173/Desktop/et/skillbloom/app/src/main/res/layout/list_item_subskill.xml" value="0.18" />
         <entry key="..\:/Users/HP/Documents/SilverSourceApplications/Skillboom/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/HP/Documents/SilverSourceApplications/Skillboom/app/src/main/res/layout/fragment_list_skills.xml" value="0.12364130434782608" />
         <entry key="..\:/Users/HP/Documents/SilverSourceApplications/Skillboom/app/src/main/res/layout/fragment_skill_list.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
